@@ -1,4 +1,4 @@
-# Bunopets Tech
+# Buno Tech
 
 Engineering and technology team of **Bunopets Pvt. Ltd.**  
 Building software, tools, and technology solutions for businesses.
