@@ -1,10 +1,9 @@
 # Bunopets Tech
+Engineering and technology team of **Bunopets**.
 
-Engineering team of **Bunopets**.
+Building software for Bunopets and providing technology solutions for businesses.
 
-We build software for Bunopets and provide technology solutions for businesses.
-
-## Focus
-- Product development
-- Software engineering
-- Open-source tools
+## Solutions & Projects
+- Bunopets platform technology
+- Software development services
+- Open-source tools and small projects
